@@ -2,9 +2,9 @@ import './App.css';
 
 function App() {
   return (
-    <div>
-      <hl className="repo_txt" style={{ marginTop: '5px' }}>Hello World!!!!!!!</hl>
-      <div className="repo_txt" style={{ marginTop: '5px' }}>
+    <div >
+      <h1 className="repo_txt" style={{ display: 'flex',justifyContent:'center',marginTop: '5px',color:'orchid' }}>Hello World!!!!!!!</h1>
+      <div className="repo_txt" style={{ display: 'flex',justifyContent:'center',marginTop: '5px' , color:'orchid'}}>
         this is my local repo
       </div>
     </div>
