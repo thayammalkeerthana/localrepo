@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/localrepo/static/css/main.1419d5d4.css",
+    "main.js": "/localrepo/static/js/main.dca08866.js",
+    "static/js/787.f4ad477a.chunk.js": "/localrepo/static/js/787.f4ad477a.chunk.js",
+    "index.html": "/localrepo/index.html",
+    "main.1419d5d4.css.map": "/localrepo/static/css/main.1419d5d4.css.map",
+    "main.dca08866.js.map": "/localrepo/static/js/main.dca08866.js.map",
+    "787.f4ad477a.chunk.js.map": "/localrepo/static/js/787.f4ad477a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1419d5d4.css",
+    "static/js/main.dca08866.js"
+  ]
+}
